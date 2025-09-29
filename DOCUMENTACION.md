@@ -1,3 +1,4 @@
+Link de visualización DOCUMENTACION.md en github: [github](https://github.com/WOLFOXLOGAN/PythonGuayerd/blob/main/DOCUMENTACION.md)
 # FUNDAMENTOS DE IA ![Static Badge](https://img.shields.io/badge/Inteligencia-Artificial-cyan)
 ## Camada 25 
 ### Parte de la Primera Entrega
